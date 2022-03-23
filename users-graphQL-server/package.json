@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start:dev": "nodemon server.js"
+    "start:dev": "nodemon server.js",
+    "json:server": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",
@@ -30,9 +31,11 @@
     "nodemon": "^2.0.15"
   },
   "dependencies": {
+    "axios": "^0.26.1",
     "dotenv": "^16.0.0",
     "express": "^4.17.3",
     "express-graphql": "^0.12.0",
-    "graphql": "^15.8.0"
+    "graphql": "^15.8.0",
+    "json-server": "^0.17.0"
   }
 }

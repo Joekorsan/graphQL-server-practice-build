@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "John",
+      "age": 30,
+      "companyId": "1"
+    },
+    {
+      "id": "40",
+      "firstName": "Alex",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "id": "41",
+      "firstName": "Nick",
+      "age": 40,
+      "companyId": "2"
+    },
+    {
+      "firstName": "Samantha",
+      "age": 25,
+      "companyId": "1",
+      "id": "S1TKHzuwl"
+    },
+    {
+      "firstName": "Joe",
+      "age": 27,
+      "companyId": "3",
+      "id": "imkLHEo"
+    },
+    {
+      "firstName": "Juju",
+      "age": 28,
+      "companyId": "4",
+      "id": "2UkVFKY"
+    },
+    {
+      "firstName": "Jerso",
+      "age": 25,
+      "id": "ngWqFbM"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    },
+    {
+      "id": "3",
+      "name": "American Express",
+      "description": "banking company"
+    },
+    {
+      "id": "4",
+      "name": "Amazon",
+      "description": "Online market place"
+    }
+  ]
+}
