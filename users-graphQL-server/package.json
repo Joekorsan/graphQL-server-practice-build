@@ -1,7 +1,7 @@
 {
   "name": "graphql-server-practice-build",
   "version": "1.0.0",
-  "description": "GraphQL practice server handling users and relations between other users in a graph",
+  "description": "GraphQL practice server handling users and relations between other users in a graph this is a test",
   "main": "server.js",
   "type": "module",
   "scripts": {
